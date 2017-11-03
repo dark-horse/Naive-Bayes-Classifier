@@ -20,4 +20,6 @@ The algorithm was tested on the IMDB dataset - I downloaded this from the CMU 70
 
 The accuracy of the classifier topped at 84% for smoothing factor set to 10.
 
+The IMDB dataset was located at https://www.dropbox.com/s/liz0o40f5mpj8ye/hw1_dataset_nb.tar.gz?dl=0
+
 I hope you find this useful.
